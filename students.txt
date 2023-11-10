@@ -1,0 +1,5 @@
+61835,David,Miller,2021,ME,david.miller@lut.fi
+48927,Grace,Lee,2022,CE,grace.lee@lut.fi
+72047,Rishat,Azmir,2023,SE,rishat.azmir@lut.fi
+42591,Estiak,Luis,2023,CE,estiak.luis@lut.fi
+65408,Rishat,Nebir,2023,ME,rishat.nebir@lut.fi
